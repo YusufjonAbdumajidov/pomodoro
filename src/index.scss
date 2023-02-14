@@ -58,4 +58,17 @@ body{
             }
         }
     }
+    .timer{
+        margin-bottom: 30px;
+        select{
+            padding: 8px 20px;
+            font-size: 28px;
+            outline: none;
+            border: none;
+            color: #FE6060;
+            border-radius: 8px;
+            cursor: pointer;
+            background-color: #ffc2c2;
+        }
+    }
 }
