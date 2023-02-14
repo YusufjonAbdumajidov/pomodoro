@@ -32,6 +32,9 @@ function App() {
 
   return (
     <div className="App">
+      <div className='timer'>
+         
+      </div>
       <div className="container">
         <h1>{minutes} : {seconds}</h1>
       </div>
